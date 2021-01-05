@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/morerobotfriends/static/css/main.8148ecc2.chunk.css",
+    "main.js": "/morerobotfriends/static/js/main.8cf3efdc.chunk.js",
+    "main.js.map": "/morerobotfriends/static/js/main.8cf3efdc.chunk.js.map",
+    "runtime-main.js": "/morerobotfriends/static/js/runtime-main.da8be874.js",
+    "runtime-main.js.map": "/morerobotfriends/static/js/runtime-main.da8be874.js.map",
+    "static/css/2.31461e4f.chunk.css": "/morerobotfriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.63d75ed9.chunk.js": "/morerobotfriends/static/js/2.63d75ed9.chunk.js",
+    "static/js/2.63d75ed9.chunk.js.map": "/morerobotfriends/static/js/2.63d75ed9.chunk.js.map",
+    "static/js/3.8422a1ef.chunk.js": "/morerobotfriends/static/js/3.8422a1ef.chunk.js",
+    "static/js/3.8422a1ef.chunk.js.map": "/morerobotfriends/static/js/3.8422a1ef.chunk.js.map",
+    "index.html": "/morerobotfriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/morerobotfriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.8148ecc2.chunk.css.map": "/morerobotfriends/static/css/main.8148ecc2.chunk.css.map",
+    "static/js/2.63d75ed9.chunk.js.LICENSE.txt": "/morerobotfriends/static/js/2.63d75ed9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/morerobotfriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da8be874.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.63d75ed9.chunk.js",
+    "static/css/main.8148ecc2.chunk.css",
+    "static/js/main.8cf3efdc.chunk.js"
+  ]
+}
